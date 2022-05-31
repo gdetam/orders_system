@@ -43,6 +43,9 @@ python main.py
 $ docker-compose up 
 ```
 ---
+## Google Sheets link
+
+This [link](https://docs.google.com/spreadsheets/d/1wF1V4Stg2UTOM117i1r1bp0as5rfQya4YyzrEa7o21U/edit#gid=271839392) for tests
 
 ## Authors 👨‍💻
 
